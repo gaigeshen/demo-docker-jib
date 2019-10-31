@@ -59,7 +59,7 @@
                         <image>java:8</image>
                     </from>
                     <to>
-                        <image>demo-docker-jib</image>
+                        <image>${project.artifactId}</image>
                         <tags>
                             <tag>${project.version}</tag>
                         </tags>
