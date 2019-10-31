@@ -56,7 +56,7 @@
                 <configuration>
                     <skip>false</skip>
                     <from>
-                        <image>openjdk:alpine</image>
+                        <image>java:8</image>
                     </from>
                     <to>
                         <image>demo-docker-jib</image>
