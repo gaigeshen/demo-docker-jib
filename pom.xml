@@ -49,7 +49,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>build</goal>
+                            <goal>dockerBuilder</goal>
                         </goals>
                     </execution>
                 </executions>
