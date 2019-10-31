@@ -73,7 +73,7 @@
                             <TZ>Asia/Shanghai</TZ>
                         </environment>
                         <volumes>
-                            <volume>/data/logs/${project.artifactId}:/app/logs</volume>
+                            <volume>/data/logs/${project.artifactId}:/logs</volume>
                         </volumes>
                     </container>
                     <ports>
