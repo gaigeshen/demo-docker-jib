@@ -72,16 +72,10 @@
                         <environment>
                             <TZ>Asia/Shanghai</TZ>
                         </environment>
-                        <volumes>
-                            <volume>/data/logs/${project.artifactId}:/logs</volume>
-                        </volumes>
                     </container>
                     <ports>
                         <port>8080</port>
                     </ports>
-                    <labels>
-                        <MAINTAINER><![CDATA[gaigeshen <gaigeshen@qq.com>]]></MAINTAINER>
-                    </labels>
                 </configuration>
             </plugin>
         </plugins>
